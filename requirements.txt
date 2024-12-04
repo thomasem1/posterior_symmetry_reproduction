@@ -2,6 +2,6 @@ blitz-bayesian-pytorch
 cvxpy
 scikit-learn
 scipy
-torch==2.0.0
-torchvision==0.15.1
+torch
+torchvision
 torch-uncertainty

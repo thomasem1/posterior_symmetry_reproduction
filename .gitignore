@@ -3,6 +3,10 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+data/**
+models/mnist-optunet-0-8191/**
+lightning_logs/**
+
 # C extensions
 *.so
 
